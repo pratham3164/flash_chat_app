@@ -1,5 +1,5 @@
 # flash_chat
-![](images/Screenshot_20200308-004543.png)
+<img src="images/Screenshot_20200308-004543.png" widht="150" height="300" >
 
 A new Flutter project.
 
