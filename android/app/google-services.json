@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78818833864",
+    "firebase_url": "https://flash-chat-29ee4.firebaseio.com",
+    "project_id": "flash-chat-29ee4",
+    "storage_bucket": "flash-chat-29ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78818833864:android:81680177897c04387fbcfd",
+        "android_client_info": {
+          "package_name": "prathammalji.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78818833864-7nf2tqhsesf77750ips4b8krg4gr6puo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prathammalji.com",
+            "certificate_hash": "ecedf2a40cb9cd52017ae9ed3fb582b2e83b400c"
+          }
+        },
+        {
+          "client_id": "78818833864-v2rgkkf5hh8ursmlkf156kga3q96doe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsq0JGsiBHXuR-6L6V5CoNAdmQZkkXMQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78818833864-v2rgkkf5hh8ursmlkf156kga3q96doe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
