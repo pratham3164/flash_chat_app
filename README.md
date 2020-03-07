@@ -1,4 +1,5 @@
 # flash_chat
+![](images/Screenshot_20200308-004543.png)
 
 A new Flutter project.
 
