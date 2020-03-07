@@ -1,5 +1,5 @@
 # flash_chat
-<img src="images/Screenshot_20200308-004543.png" widht="150" height="300" >
+<img src="images/Screenshot_20200308-004543.png" widht="170" height="320" ><img src="images/Screenshot_20200308-004552.png" widht="170" height="320" ><img src="images/Screenshot_20200308-004552.png" widht="170" height="320" >
 
 A new Flutter project.
 
